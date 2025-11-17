@@ -144,6 +144,7 @@ An interactive dashboard was created using **Tableau Public** to visualize:
 Install the required libraries:
 ```bash
 pip install -r requirements.txt
+```
 
 Run the notebooks:
 
