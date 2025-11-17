@@ -150,8 +150,8 @@ pip install -r requirements.txt
 Run the notebooks:
 
  
-`jupyter notebook "Final Task (Analysis).ipynb"`
-`jupyter notebook "Final Task (ML).ipynb"`
+<pre>`jupyter notebook "Final Task (Analysis).ipynb"`
+`jupyter notebook "Final Task (ML).ipynb"`</pre>
 
 
 
