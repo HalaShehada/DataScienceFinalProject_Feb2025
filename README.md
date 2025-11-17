@@ -21,7 +21,7 @@ The main objective is to predict **Test Results** ("Normal", "Abnormal", "Inconc
 ## 📁 Project Structure
 
 
-<pre><code>```DataScienceFinalProject_Feb2025/├── data/│   └── healthcare_dataset.csv├── notebooks/│   ├── Final Task (Analysis).ipynb│   └── Final Task (ML).ipynb├── models/│   ├── healthcare(RandomForest Without FS).pkl│   └── healthcare(RandomForest With FS).pkl├── reports/│   └── Final Task (Python).pptx├── tableau/│   └── Data Science Final Project.twb├── README.md├── requirements.txt└── tableau_dashboard_link.txt```</code></pre>
+DataScienceFinalProject_Feb2025/ ├── data/ │   └── healthcare_dataset.csv ├── notebooks/ │   ├── Final Task (Analysis).ipynb │   └── Final Task (ML).ipynb ├── models/ │   ├── healthcare(RandomForest Without FS).pkl │   └── healthcare(RandomForest With FS).pkl ├── reports/ │   └── Final Task (Python).pptx ├── tableau/ │   └── Data Science Final Project.twb ├── README.md ├── requirements.txt └── tableau_dashboard_link.txt
 
 
 
