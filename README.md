@@ -20,7 +20,7 @@ The main objective is to predict **Test Results** ("Normal", "Abnormal", "Inconc
 
 ## 📁 Project Structure
 
-<pre>```plaintext
+<pre>
 DataScienceFinalProject/
 │
 ├── data/
@@ -44,7 +44,7 @@ DataScienceFinalProject/
 ├── README.md
 ├── requirements.txt
 └── tableau_dashboard_link.txt
-```</pre>
+</pre>
 
 
 
