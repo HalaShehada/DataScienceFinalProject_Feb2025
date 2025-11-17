@@ -20,7 +20,8 @@ The main objective is to predict **Test Results** ("Normal", "Abnormal", "Inconc
 
 ## 📁 Project Structure
 
-<pre>```plaintextDataScienceFinalProject/
+<pre>```plaintext
+DataScienceFinalProject/
 │
 ├── data/
 │   └── healthcare_dataset.csv
@@ -42,7 +43,8 @@ The main objective is to predict **Test Results** ("Normal", "Abnormal", "Inconc
 │
 ├── README.md
 ├── requirements.txt
-└── tableau_dashboard_link.txt```</pre>
+└── tableau_dashboard_link.txt
+```</pre>
 
 
 
