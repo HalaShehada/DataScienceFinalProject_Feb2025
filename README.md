@@ -20,7 +20,7 @@ The main objective is to predict **Test Results** ("Normal", "Abnormal", "Inconc
 
 ## 📁 Project Structure
 
-
+```
 DataScienceFinalProject/
 │
 ├── data/
@@ -44,6 +44,8 @@ DataScienceFinalProject/
 ├── README.md
 ├── requirements.txt
 └── tableau_dashboard_link.txt
+```
+
 
 
 ## 🧪 Dataset Description
@@ -146,7 +148,8 @@ pip install -r requirements.txt
 
 Run the notebooks:
 
-<pre><code>```bashjupyter notebook "Final Task (Analysis).ipynb"jupyter notebook "Final Task (ML).ipynb"```</code></pre>
+``` jupyter notebook "Final Task (Analysis).ipynb"
+jupyter notebook "Final Task (ML).ipynb"```
 
 
 
