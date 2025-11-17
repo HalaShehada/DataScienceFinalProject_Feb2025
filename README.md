@@ -34,9 +34,8 @@ DataScienceFinalProject/
 │   ├── healthcare(RandomForest Without FS).pkl
 │   └── healthcare(RandomForest With FS).pkl
 │
-├── reports/
-│   ├── Final Task (Python).pptx
-│   └── report.pdf
+├── reports/ 
+│   └── Final Task (Python).pptx
 │
 ├── tableau/
 │   └── Data Science Final Project.twb
